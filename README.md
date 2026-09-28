@@ -1,15 +1,16 @@
-# Sandra Aganyi — Cybersecurity Portfolio
+# Sandra Aganyi — Cybersecurity Portfolio v2
 
-Responsive single-page portfolio for Cybersecurity, GRC, IT Risk and Information Security.
+Static GitHub Pages portfolio for Sandra Aganyi.
 
-## Before publishing
-1. Replace `YOUR_EMAIL@example.com` in `index.html` with the real email address.
-2. Review all project descriptions and links.
-3. Optionally add a CV PDF link.
-4. Publish with GitHub Pages.
+## Files
+- `index.html` — portfolio page
+- `style.css` — responsive styling
+- `script.js` — mobile navigation and footer year
+- `assets/sandra-aganyi.png` — professional photo
+- `assets/Sandra_Aganyi_CV.pdf` — CV download
 
-## Project links
-- GitHub: https://github.com/Sandyflee
-- CyberSafe SME: https://sandyflee.github.io/cybersafe-SMEs/
-- ScamShield: https://sandyflee.github.io/scamshield/
-- TrustPay: https://github.com/Sandyflee/TrustPay-ISO27001-Audit
+## Deploy to GitHub Pages
+1. Open the existing `sandra-Aganyi-cybersecurity-portfolio` repository.
+2. Replace the old site files with these files.
+3. Keep the `assets` folder in the repository.
+4. Commit and push to the branch configured for GitHub Pages.
